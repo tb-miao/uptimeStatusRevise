@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: 'AUNyaの小窝 服务器状态监控',
+  SiteName: 'AUNya 服务器状态监控',
 
   // 站点链接
   SiteUrl: '/',
@@ -27,9 +27,5 @@ window.Config = {
       text: 'AUNyaの小窝',
       url: 'https://tbmiao.dpdns.org/'
     },
-    {
-      text: '关于',
-      url: 'https://tbmiao.dpdns.org/about/'
-    }
   ]
 };
